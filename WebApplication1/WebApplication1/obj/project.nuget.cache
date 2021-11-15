@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A5eBmYCn7dpWQD+IrB5eiEGrZqAia2nnQ0dp2rSiIXLJSz//EfgWpunCJ5f6x1Tn2aw/YjenIfKVfjTW3SEDNg==",
+  "dgSpecHash": "x9QAHlQyMO8c7I7xuKVJRm1sx15JG1VgTugiqKTn6vYSFRm7uX5ALkKIoYmHb3KrAnBbVznJZ7gjFMe35mgvjA==",
   "success": true,
-  "projectFilePath": "C:\\_Code\\Github\\Stuff\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\_Code\\Github\\stuff\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arn_b\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.6\\microsoft.aspnetcore.authorization.5.0.6.nupkg.sha512",
     "C:\\Users\\arn_b\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.6\\microsoft.aspnetcore.components.5.0.6.nupkg.sha512",
@@ -30,7 +30,7 @@
     "C:\\Users\\arn_b\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.6\\microsoft.jsinterop.webassembly.5.0.6.nupkg.sha512",
     "C:\\Users\\arn_b\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\arn_b\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\arn_b\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.6\\microsoft.netcore.app.runtime.browser-wasm.5.0.6.nupkg.sha512"
+    "C:\\Users\\arn_b\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.0\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
